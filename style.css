@@ -1,0 +1,18 @@
+body 
+{
+background-image:url("Background img.jpg");
+background-position:center;
+background-size: cover;
+}
+
+#main
+{
+font-family: cursive;
+color: aliceblue;
+padding: 5px;
+}
+
+#img
+{
+size: 50px;
+}
